@@ -1,0 +1,13 @@
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\bin\Debug\netcoreapp3.1\Ultimate.exe
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\bin\Debug\netcoreapp3.1\Ultimate.deps.json
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\bin\Debug\netcoreapp3.1\Ultimate.runtimeconfig.json
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\bin\Debug\netcoreapp3.1\Ultimate.runtimeconfig.dev.json
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\bin\Debug\netcoreapp3.1\Ultimate.dll
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\bin\Debug\netcoreapp3.1\Ultimate.pdb
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.csprojAssemblyReference.cache
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.AssemblyInfoInputs.cache
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.AssemblyInfo.cs
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.csproj.CoreCompileInputs.cache
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.dll
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.pdb
+C:\Users\adamb\OneDrive\privat\c#\Ultimate\obj\Debug\netcoreapp3.1\Ultimate.genruntimeconfig.cache
