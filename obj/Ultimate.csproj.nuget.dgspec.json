@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adamb\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj": {}
+    "C:\\Users\\Adam\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adamb\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj": {
+    "C:\\Users\\Adam\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adamb\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj",
+        "projectUniqueName": "C:\\Users\\Adam\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj",
         "projectName": "Ultimate",
-        "projectPath": "C:\\Users\\adamb\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj",
-        "packagesPath": "C:\\Users\\adamb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adamb\\OneDrive\\privat\\c#\\Ultimate\\obj\\",
+        "projectPath": "C:\\Users\\Adam\\OneDrive\\privat\\c#\\Ultimate\\Ultimate.csproj",
+        "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adam\\OneDrive\\privat\\c#\\Ultimate\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\adamb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
